@@ -13,4 +13,19 @@
    
    
 
-   
+   .audio {
+       color: white;
+       font-size: 35px;
+       font-family: 'Niramit';
+   }
+
+
+    #form {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+
+.text-center {
+    color: white;
+}

@@ -1,3 +1,42 @@
 body { 
-    background-color: var(--blue);
+    background-color: black;
+}
+
+h1 {
+    color: white;
+
+}
+.parallax1 {
+    background-image: url("https://images.unsplash.com/photo-1534076355207-1717511180ba?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=dac3b914c452ddd9c6c51e1828ac0a76&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb");
+
+    height: 2000px; 
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.parallax1 {
+    color: white;
+    text-align: center;
+    font-family: 'Oleo Script';
+    padding-top: 20%;
+    font-size: 200%;
+    text-shadow: 2px 2px #424040;
+    margin-right: 23px;
+
+
+}
+
+.carouselslide
+
+
+#h2 {
+
+    color: white !important;
+
+
 }

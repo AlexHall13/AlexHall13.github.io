@@ -1,6 +1,60 @@
-#jumboStyle {
-    background: url('https://images.unsplash.com/photo-1477244075012-5cc28286e465?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=76ae2034864198c0b4daf6117ba25e72&auto=format&fit=crop&w=500&q=60') no-repeat center;
-    background-size: cover;
-    color: white;
-    text-align: center;
+  #jumboStyle {
+      background: url('https://i.pinimg.com/originals/5e/d4/04/5ed404b97ad95cae88a20b322faf2761.gif') no-repeat center;
+      background-size: cover;
+      color: white;
+      text-align: center;
+  }
+
+  #jumboStyle2 {
+      background: url('https://i.imgur.com/aXN3FkI.gif') no-repeat center;
+      background-size: cover;
+      color: white;
+      text-align: center;
+  }
+
+  #jumboStyleCafe {
+      background: url('http://media.boingboing.net/wp-content/uploads/2015/09/coffee_in_rain_by_kirokaze-d98qb8z.gif') no-repeat center;
+      background-size: cover;
+      color: white;
+      text-align: left;
+      font-family: 'Oleo Script';
+  }
+
+  #jumboStyleCafe2 {
+    background-color: rgb(151,183,194);
+    text-align: right;
+    color: darkslategray;
+  } 
+
+  #jumboStyleCafe3 {
+    background: url('https://i.redd.it/zl4vpfrnxxzx.gif')
+    
+  }
+
+
+  #jumboStyleCafe4 {
+    background: url('https://66.media.tumblr.com/ad8acbea1b76961b8036577557594ff4/tumblr_owahxp0JVU1qciqqno4_640.gif')
+  }
+  
+  #jumboStyleCafe5 {
+    background-color: rgb(111,134,121);
+    text-align: left;
+    color: darkslategray;
+    
+  } 
+
+  #jumboStyleCafe6 {
+    background-color: cadetblue;
+
+  }
+
+  #jumboPadder {
+    background-color: black;
+    padding: 4px;
+  }
+
+
+.display-5 {
+  color: darkslategrey;
+
   }
